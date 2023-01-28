@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
+  "name": "new-audit-log",
   "version": "1.0.0",
-  "description": "A theme template",
+  "description": "Replaces old audit log design with audit log v2.0",
   "engines": {
     "node": ">=14.0.0"
   },
@@ -14,7 +14,7 @@
     "lint:fix": "prettier ./src ./scripts --write"
   },
   "keywords": [],
-  "author": "",
+  "author": "EvanEnev",
   "license": "ISC",
   "devDependencies": {
     "@electron/asar": "^3.2.1",

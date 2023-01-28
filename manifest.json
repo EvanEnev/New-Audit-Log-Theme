@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "dev.EvanEnev.NewAuditLog",
+  "name": "New Audit Log",
+  "description": "Replaces old audit log design with audit log v2.0",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "EvanEnev",
+    "discordID": "352389928543584256",
+    "github": "EvanEnev"
   },
-  "version": "1.0.2",
+  "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "EvanEnev/New-Audit-Log-Theme"
   },
   "license": "MIT",
   "type": "replugged-theme",
